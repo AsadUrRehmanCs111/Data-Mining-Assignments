@@ -21,7 +21,7 @@ In short, we can say, data mining is a process used to extract usable data from 
 11. Weather Forecast
 12. Public datasets for Machine Learning etc. 
 
-#### Q2: How data mining is different from DBMS?
+### Q2: How data mining is different from DBMS?
 ### ANS:
 
 Because in Data Mining we need implicit knowledge. But in DMBS we don't need any implicit knowledge get extract or get data. AS we Know, DBMS is an organized collection of data where we write a query for required data and get the information that we want which is called raw data. On the other hand, Data Mining analyzes data from different information to discover usable information and previously unknown information from raw data.
@@ -29,8 +29,8 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 ### Q3: How can we extract knowledge from data?
 ### ANS:
 
-####Steps to extract knowledge from raw data:**
-**There are seven Steps to Extract Knowledge from raw data.**
+##Steps to extract knowledge from raw data
+**There are seven Steps to Extract Knowledge from raw data:**
 1. Defining the problem
 2. Building the database
 3. Use of data
@@ -60,7 +60,7 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 ### Q5: State applications of data mining in real world
 ### ANS:
 
-####Applications of Data Mining in Real World:
+## Applications of Data Mining in Real World:
 **Data mining is used in almost every field of life. Here are some field where it used:**
 1. Retail
 2. Telecommunication
@@ -82,15 +82,15 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 ### Q6: What kind of data can be mined?
 ### ANS:
 
-**Following are some types of data that can be mined:**
-**Flat Files:** Flat files are defined as data files in text form or in binary form with a structure that can be extracted by data mining algorithms.
-**Relational Database:** A relational database is a collection of data in an organized way.
-**DataWarehouse:** A data warehouse is a database system designed for analytics. Data warehousing is the process of extracting and storing data that allow easier reporting. Data mining is generally considered as the process of extracting useful data from a large set of data.
-**Transactional Databases:** Transactional database is a collection of data organized by date, timestamps, etc. to represent transactions in databases.
-**Multimedia Databases:** This is the type of database that is used to store multimedia data like videos, audio, images, etc.
-**Spatial Databases:** Spatial data is associated with geographic locations such as Countries, States, cities, towns, etc.
-**Time Series Databases:** A time series is a sequence of data points recorded at particular time points - most often in regular time intervals (like years, months, weeks, days, min, etc.).
-**World Wide Web(WWW):** Web mining can define as the method of utilizing data mining techniques and algorithms to extract useful information directly from the web, such as Web documents and services, hyperlinks, Web content, and server logs.
+**Following are some types of data that can be mined:** ..
+**Flat Files:** Flat files are defined as data files in text form or in binary form with a structure that can be extracted by data mining algorithms. ..
+**Relational Database:** A relational database is a collection of data in an organized way. ..
+**DataWarehouse:** A data warehouse is a database system designed for analytics. Data warehousing is the process of extracting and storing data that allow easier reporting. Data mining is generally considered as the process of extracting useful data from a large set of data. ..
+**Transactional Databases:** Transactional database is a collection of data organized by date, timestamps, etc. to represent transactions in databases. ..
+**Multimedia Databases:** This is the type of database that is used to store multimedia data like videos, audio, images, etc. ..
+**Spatial Databases:** Spatial data is associated with geographic locations such as Countries, States, cities, towns, etc. ..
+**Time Series Databases:** A time series is a sequence of data points recorded at particular time points - most often in regular time intervals (like years, months, weeks, days, min, etc.). .. 
+**World Wide Web(WWW):** Web mining can define as the method of utilizing data mining techniques and algorithms to extract useful information directly from the web, such as Web documents and services, hyperlinks, Web content, and server logs. ..
 
 ### Q7: What is data warehouse and what operations can we perform on data in data warehousing?
 ### ANS:
@@ -118,33 +118,36 @@ Repository of information collected from multiple sources, stored under a unifie
 ### Q10: Which technologies are used in data mining?
 ### ANS:
 
-**Following are some technologies that are used in Data mining:**
-**Statistics:** In Statistics, we deal with the collection, organization, computing of data, and its representation.
-**Information retrieval:** It deals with the retrieval of information from different sources like documents etc.
-**Machine Learning:** In ML, we deal with the performance of a computer, how computers can be efficient on the basis of data.
-**Data warehousing:** It deals with the collection of data from different databases for analytics.
-**Database Systems:** As a data warehouse collects data from different databases so it means a lot in data mining.
-**High-performance computing:** These are responsible for storing a large amount of mined data accurately and fastly.
-**Algorithms:** Algo's deals with the working of different operations as algorithms have lots of importance in computer science.
-**Pattern recognition:** it is used to make patterns instead of searching each and every data from the database.
-**Visualization:** it deals with output data to show it in a user-friendly mode.
+**Following are some technologies that are used in Data mining:** ..
+**Statistics:** In Statistics, we deal with the collection, organization, computing of data, and its representation. ..
+**Information retrieval:** It deals with the retrieval of information from different sources like documents etc. .. 
+**Machine Learning:** In ML, we deal with the performance of a computer, how computers can be efficient on the basis of data. .. 
+**Data warehousing:** It deals with the collection of data from different databases for analytics. ..
+**Database Systems:** As a data warehouse collects data from different databases so it means a lot in data mining. ..
+**High-performance computing:** These are responsible for storing a large amount of mined data accurately and fastly. ..
+**Algorithms:** Algo's deals with the working of different operations as algorithms have lots of importance in computer science. ..
+**Pattern recognition:** it is used to make patterns instead of searching each and every data from the database. ..
+**Visualization:** it deals with output data to show it in a user-friendly mode. ..
 
-Q11: State different applications of data mining?
-Applications of data mining:
-There are many fields where Data Mining comes into play But we discuss here two fields.
+### Q11: State different applications of data mining?
+### ANS:
 
-1. Business Intelligence: Business Intelligence is the technology that deals with the analytic and predicted operations of the business. Without data mining, effective marketing is not possible.
+## Applications of data mining:
+**There are many fields where Data Mining comes into play But we discuss here two fields.**
 
-Some common examples that come under this field Application of Data Mining:
+1. **Business Intelligence**:.. Business Intelligence is the technology that deals with the analytic and predicted operations of the business. Without data mining, effective marketing is not possible. ..
+
+**Some common examples that come under this field Application of Data Mining:**
 
 Stock Market
 Basket product prediction
 Choice of Business which gives more profit
-Prediction and analysis of sales 2. Search Engines: The place (servers) where we can search out our desired data or information.
+Prediction and analysis of sales
+2. **Search Engines:** .. The place (servers) where we can search out our desired data or information.
 
 It may include the internet such as google search engines where we can search for different types of things of our choice and we can get a suggestion out of which we searched this is all due to data mining.
 
-Some common examples that come under this field are as follow:
+**Some common examples that come under this field are as follow:**
 
 WWW
 web Analysis
