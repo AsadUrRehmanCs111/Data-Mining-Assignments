@@ -121,11 +121,14 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 2. Association
 3. Summarization
 
-### 1. Clustering: The process in which we group objects without knowing their class label. In this process, we are maximizing intra-class similarities of objects while minimizing inter-class similarities of objects. 
+### 1. Clustering: 
+The process in which we group objects without knowing their class label. In this process, we are maximizing intra-class similarities of objects while minimizing inter-class similarities of objects. 
 
-### 2. Association: The process in which we are going to predict the associated object of the previous one As it is a prediction of the most associated objects of the current object.
+### 2. Association: 
+The process in which we are going to predict the associated object of the previous one As it is a prediction of the most associated objects of the current object.
 
-### 3. Summarization: Describes a given set of data in a concise and summative manner, presenting general interesting properties Following terms are most likely to associate this pattern of descriptive data 
+### 3. Summarization:
+Describes a given set of data in a concise and summative manner, presenting general interesting properties Following terms are most likely to associate this pattern of descriptive data 
 
 **Data Characterization**: To characterize data as useful or not useful
 **Data Discrimination:**    Differentiate data from the one which is not valuable.
