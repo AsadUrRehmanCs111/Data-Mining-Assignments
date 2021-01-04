@@ -1,7 +1,6 @@
 # Data Mining Assignments
 
-### Q:What is data mining and what are different sources of data in modern world?
-### ANS:
+### Q1: What is data mining and what are different sources of data in modern world?
 
 ## Data Mining:
 As mining in Data Mining suggests extracting something valuable.
@@ -22,14 +21,12 @@ In short, we can say, data mining is a process used to extract usable data from 
 12. Public datasets for Machine Learning etc. 
 
 ### Q2: How data mining is different from DBMS?
-### ANS:
 
 Because in Data Mining we need implicit knowledge. But in DMBS we don't need any implicit knowledge get extract or get data. AS we Know, DBMS is an organized collection of data where we write a query for required data and get the information that we want which is called raw data. On the other hand, Data Mining analyzes data from different information to discover usable information and previously unknown information from raw data.
 
 ### Q3: How can we extract knowledge from data?
-### ANS:
 
-##Steps to extract knowledge from raw data
+## Steps to extract knowledge from raw data
 **There are seven Steps to Extract Knowledge from raw data:**
 1. Defining the problem
 2. Building the database
@@ -40,7 +37,6 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 7. Interpretation of Model results and improvement
 
 ### Q4: What are different types of data and which tasks can we perform on data?
-### ANS:
 
 ## Different Types Of Data:
 1. Time Related or Sequence Data
@@ -58,7 +54,6 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 13. Deviation and outer Analysis
 
 ### Q5: State applications of data mining in real world
-### ANS:
 
 ## Applications of Data Mining in Real World:
 **Data mining is used in almost every field of life. Here are some field where it used:**
@@ -263,97 +258,115 @@ Analysis and discover
 Present an argument
 Inspire
 
-Q20: What are different data visualization methods?
-Data Visualization Methods:
-Following are the methods of data visualization
+### Q20: What are different data visualization methods?
 
-1.Pixel Oriented:
+## Data Visualization Methods:
+**Following are the methods of data visualization**
+
+## 1. Pixel Oriented:
 
 Represent many objects on the same screen at the same time. Map each data value to a pixel of the screen and arrange pixels adequately. The smallest unit of the image equals the size of the smallest cell in the matrix form. It helps to organize images well.
 
-2.Geometric Visualization:
+## 2. Geometric Visualization:
 
 Visualization of geometric transformations and projection of the data.
 
-3.Icon Visualization:
+## 3. Icon Visualization:
 
 It represents the data features in the form of icons.
 
-4.Hierarchical Visualization:
+## 4.Hierarchical Visualization:
 
 It is the representation of data in the form of hierarchy like in the tree form
 
-5.Complex data visualization:
+## 5.Complex data visualization:
 
 It is the representation of hyperlink data like data of social media data.
 
-Q21: What is pixel based data visualization approach?
+### Q21: What is pixel based data visualization approach?
+
 Pixel-based data visualization is basically the representation of all the objects on a single screen. Objects are uniformly arranged on the screen. Pixels are uniformly arranged on the screen and show data. Different values are shown in pixel colors.
-Q22: What are statistical measures of data?
-Statistical Measures:
+
+## Q22: What are statistical measures of data?
+
+## Statistical Measures:
 The procedure of understanding, interpreting, and summarizing of data.
 
-Following are some measuring characteristics of Statistical measures:
+**Following are some measuring characteristics of Statistical measures:**
 
-Central Tendency: Central value of data( mean value of data )
-Variation: How data deviate from the mean point. Or How data values differ from each other.
-Spread: How much data is spread from a to a point.
+#### Central Tendency: 
+Central value of data( mean value of data )
 
-Q23: What is central tendency?
-Central Tendency: A single score that defines the middle/Center of the distribution. In Statistics, A central tendency is a center or typical value for a probability distribution.
+#### Variation: 
+How data deviate from the mean point. Or How data values differ from each other.
 
-Following are the best representation of Central tendency:
+#### Spread: 
+How much data is spread from a to a point.
 
-Mean
-Median
-Mode
+### Q23: What is central tendency?
 
-Q24: Differentiate between symmetric and skewed data?
-Differentiate between symmetric and skewed data:
-Symmetric data: Symmetric data that has an equal no of data points on either side or equally distributed.
+## Central Tendency: 
+A single score that defines the middle/Center of the distribution. In Statistics, A central tendency is a center or typical value for a probability distribution.
 
-Skewed or Asymmetric data: Asymmetric data is data that is differ from a normal or gaussian distribution.This may be positively skewed data or negatively skewed data.
+**Following are the best representation of Central tendency:**
+1. Mean
+2. Median
+3. Mode
+
+### Q24: Differentiate between symmetric and skewed data?
+
+## Differentiate between symmetric and skewed data:
+## Symmetric data:
+Symmetric data that has an equal no of data points on either side or equally distributed.
+## Skewed or Asymmetric data:
+Asymmetric data is data that is differ from a normal or gaussian distribution.This may be positively skewed data or negatively skewed data.
 
 Positively Skewed data: Having concentrated data on the right side of the middle data point.
 negatively Skewed Data: Having concentrated data on the left side of the middle point of distribution.
 
-Q25: What is dispersion of data?
-Dispersion of data:
+### Q25: What is dispersion of data?
+
+## Dispersion of data:
 The measure of the extent to which individual items vary. also called how much data is spread or scattered. It indicates the consistency of data. When the data set has a large value it has large scattered values and when the data set has a small set of values it has small scattering values. It is used to measure the variability of data used in data mining.
 
-Q26: Define Box Plot Analytics?
-Box plot:
+### Q26: Define Box Plot Analytics?
+
+## Box plot:
 Boxplots are the visual representation of quartiles. If we want to see the graphical forms of data quartiles it would be in the form of Boxplots. Boxplot is a standard way of displaying data based on a five-number summary. The end of the box is at the 1st and 3rd quartile and the median is within the box.
-Q27: What are Five Number Summary of Box Plot?
-Five Number Summary of Box Plot:
+
+### Q27: What are Five Number Summary of Box Plot?
+## Five Number Summary of Box Plot:
 A boxplot displays the five-number summary of a set of data.
+**The five-number summary is:**
 
-The five-number summary is:
+1. Minimum
+2. 1st quartile (Q1)
+3. Median
+4. 3rd quartile (Q3)
+5. Maximum
 
-Minimum
-1st quartile (Q1)
-Median
-3rd quartile (Q3)
-Maximum
+### Q28: What are Whiskers and Out liners?
 
-Q28: What are Whiskers and Out liners?
-Whiskers:
+## Whiskers:
 Two lines outside the box extended to Min & Max.
 
-Outliers:
+## Outliers:
 
 Points beyond a specified outlier threshold plotted individually or Outliers may be plotted as individual points.
 
-Q29: what are histograms?
-Histograms:
+### Q29: what are histograms?
+
+## Histograms:
 The histogram is a measure of the graphical display of tabulated values/frequencies. No of the data items in intervals are Frequencies. And bar height describes the occurrence of the data items.
-Q30: Difference between Bar Chart & Histogram?
-Difference between Bar Chart & Histogram
 
-Bar Chart:
-Barcharts may have gaps mean they may not be continuous.
-Barcharts are used for categorical data.
+### Q30: Difference between Bar Chart & Histogram?
 
-Histogram:
-Histograms are always continued and defined for every data point.
-Histograms are used for nominal data.
+## Difference between Bar Chart & Histogram
+
+## Bar Chart:
+1. Barcharts may have gaps mean they may not be continuous.
+2. Barcharts are used for categorical data.
+
+## Histogram:
+1. Histograms are always continued and defined for every data point.
+2. Histograms are used for nominal data.
