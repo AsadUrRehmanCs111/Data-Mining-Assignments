@@ -1,8 +1,8 @@
 # Data Mining Assignments
 
-##### Q:What is data mining and what are different sources of data in modern world?
+### Q:What is data mining and what are different sources of data in modern world?
 
-##### ANS:
+### ANS:
 
 ## Data Mining:
 
@@ -14,18 +14,18 @@ In short, we can say, data mining is a process used to extract usable data from 
 
 **Following are some sources of data in the modern world:**
 
-1.Web Data
-2.E-Commerce
-3.Bank Transactions
-4.Digital Media
-5.Online Games
-6.Research and Science Biomedical
-7.Social media data
-8.Youtube
-9.Cloud
-10.Officials Statistics
-11.Weather Forecast
-12.Public datasets for Machine Learning etc.
+1.Web Data ..
+2.E-Commerce..
+3.Bank Transactions..
+4.Digital Media..
+5.Online Games..
+6.Research and Science Biomedical..
+7.Social media data..
+8.Youtube..
+9.Cloud..
+10.Officials Statistics..
+11.Weather Forecast..
+12.Public datasets for Machine Learning etc. ..
 
 ###### Q2: How data mining is different from DBMS?
 
