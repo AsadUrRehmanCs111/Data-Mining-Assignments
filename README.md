@@ -242,15 +242,15 @@ Structured data is data that has clear, definable relationships between the data
 ### Constituents:  
 **Following are some constituents of Structured Data:**
 
-#### + Dimensionality: 
+#### 1. Dimensionality: 
 It is the number of rows and columns.
-#### + Sparsity: 
+#### 2. Sparsity: 
 It is no of cells that are empty means the cells having no data.
-#### + Dimensions/Density:
+#### 3. Dimensions/Density:
 It is opposite to the sparsity of cells having data inside them.
-#### + Resolutions: 
+#### 4. Resolutions: 
 It is the pattern that is responsible for making dimensional data resolved.
-#### + Distribution: 
+#### 5. Distribution: 
 List of functions showing all the possible values of the data and how often they occur
 
 ## Q15: What can be the architecture or storage mechanism of data when it is prepared for data mining task?
@@ -276,13 +276,13 @@ other names: Dimension, Features, Variables
 2. Binary
 3. Numeric
 
-### + Nominal:
+### 1. Nominal:
 Common Data Type, These types of attributes hold data value that is categorical i.e. Assitant,sub-Assistant, etc.
 
-### + Binary: 
+### 2. Binary: 
 Special case of Nominal. These types of attributes have a data value only has two options i.e. Male and Female.
 
-### + Numeric:
+### 3. Numeric:
 These type of attributes have a data value of numbers data type i.e ordinal scale or ratio scale.
 
 ## Q18: Differentiate between discrete and continuous attribute?
@@ -326,11 +326,11 @@ Visualization of geometric transformations and projection of the data.
 
 It represents the data features in the form of icons.
 
-### 4.Hierarchical Visualization:
+### 4. Hierarchical Visualization:
 
 It is the representation of data in the form of hierarchy like in the tree form
 
-### 5.Complex data visualization:
+### 5. Complex data visualization:
 
 It is the representation of hyperlink data like data of social media data.
 
@@ -345,13 +345,13 @@ The procedure of understanding, interpreting, and summarizing of data.
 
 **Following are some measuring characteristics of Statistical measures:**
 
-### Central Tendency: 
+### 1. Central Tendency: 
 Central value of data( mean value of data )
 
-### Variation: 
+### 2. Variation: 
 How data deviate from the mean point. Or How data values differ from each other.
 
-### Spread: 
+### 3. Spread: 
 How much data is spread from a to a point.
 
 ## Q23: What is central tendency?
