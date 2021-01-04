@@ -1,145 +1,137 @@
 # Data Mining Assignments
 
 ### Q:What is data mining and what are different sources of data in modern world?
-
 ### ANS:
 
 ## Data Mining:
-
 As mining in Data Mining suggests extracting something valuable.
-
 Data Mining is a process of discovering patterns in larger data sets. it is a process of finding anomalies, patterns, and correlations within large datasets to predict outcomes.
-
 In short, we can say, data mining is a process used to extract usable data from larger sets of raw data.
-
 **Following are some sources of data in the modern world:**
+1. Web Data
+2. E-Commerce
+3. Bank Transactions
+4. Digital Media
+5. Online Games
+6. Research and Science Biomedical
+7. Social media data
+8. Youtube
+9. Cloud
+10. Officials Statistics
+11. Weather Forecast
+12. Public datasets for Machine Learning etc. 
 
-1.Web Data ..
-2.E-Commerce..
-3.Bank Transactions..
-4.Digital Media..
-5.Online Games..
-6.Research and Science Biomedical..
-7.Social media data..
-8.Youtube..
-9.Cloud..
-10.Officials Statistics..
-11.Weather Forecast..
-12.Public datasets for Machine Learning etc. ..
-
-###### Q2: How data mining is different from DBMS?
-
-###### ANS:
+#### Q2: How data mining is different from DBMS?
+### ANS:
 
 Because in Data Mining we need implicit knowledge. But in DMBS we don't need any implicit knowledge get extract or get data. AS we Know, DBMS is an organized collection of data where we write a query for required data and get the information that we want which is called raw data. On the other hand, Data Mining analyzes data from different information to discover usable information and previously unknown information from raw data.
 
-###### Q3: How can we extract knowledge from data?
+### Q3: How can we extract knowledge from data?
+### ANS:
 
-###### ANS:
+####Steps to extract knowledge from raw data:**
+**There are seven Steps to Extract Knowledge from raw data.**
+1. Defining the problem
+2. Building the database
+3. Use of data
+4. Preparation
+5. Building the Model
+6. Assessment Model
+7. Interpretation of Model results and improvement
 
-###### Steps to extract knowledge from raw data:
-
-###### There are seven Steps to Extract Knowledge from raw data.
-
-1.Defining the problem
-2.Building the database
-3.Use of data
-4.Preparation
-5.Building the Model
-6.Assessment Model
-7.interpretation of Model results and improvement
-
-###### Q4: What are different types of data and which tasks can we perform on data?
-
-###### ANS:
+### Q4: What are different types of data and which tasks can we perform on data?
+### ANS:
 
 ## Different Types Of Data:
+1. Time Related or Sequence Data
+2. Data Streams
+3. Spatial Data
+4. Engineering Design
+5. HyperText and Multimedia Data
+6. Web Data
+7. The task to be performed on data:
+8. Characterization
+9. Discrimination
+10. Association
+11. Clustering
+12. Trend
+13. Deviation and outer Analysis
 
-Time Related or Sequence Data
-Data Streams
-Spatial Data
-Engineering Design
-HyperText and Multimedia Data
-Web Data
-The task to be performed on data:
-Characterization
-Discrimination
-Association
-Clustering
-Trend
-Deviation and outer Analysis
+### Q5: State applications of data mining in real world
+### ANS:
 
-Q5: State applications of data mining in real world
-Applications of Data Mining in Real World:
-Data mining is used in almost every field of life. Here are some field where it used:
+####Applications of Data Mining in Real World:
+**Data mining is used in almost every field of life. Here are some field where it used:**
+1. Retail
+2. Telecommunication
+3. Banking
+4. Fraud Analysis
+5. DNA mining
+6. Stock market Analysis
+7. Web Mining
+8. Weblog Analysis
+9. Lie Detection
+10. Customer Segmentation
+11. Financial banking
+12. Corporate Surveillance
+13. Research Analysis
+14. Criminal investigation
+15. Bioinformatics
+16. Service provider
 
-Retail
-Telecommunication
-Banking
-Fraud Analysis
-DNA mining
-Stock market Analysis
-Web Mining
-Weblog Analysis
-Lie Detection
-Customer Segmentation
-Financial banking
-Corporate Surveillance
-Research Analysis
-Criminal investigation
-Bioinformatics
-Service provider
+### Q6: What kind of data can be mined?
+### ANS:
 
-Q6: What kind of data can be mined?
-ANS:
-Following are some types of data that can be mined:
-Flat Files: Flat files are defined as data files in text form or in binary form with a structure that can be extracted by data mining algorithms.
-Relational Database: A relational database is a collection of data in an organized way.
-DataWarehouse: A data warehouse is a database system designed for analytics. Data warehousing is the process of extracting and storing data that allow easier reporting. Data mining is generally considered as the process of extracting useful data from a large set of data.
-Transactional Databases: Transactional database is a collection of data organized by date, timestamps, etc. to represent transactions in databases.
-Multimedia Databases: This is the type of database that is used to store multimedia data like videos, audio, images, etc.
-Spatial Databases: Spatial data is associated with geographic locations such as Countries, States, cities, towns, etc.
-Time Series Databases: A time series is a sequence of data points recorded at particular time points - most often in regular time intervals (like years, months, weeks, days, min, etc.).
-World Wide Web(WWW): Web mining can define as the method of utilizing data mining techniques and algorithms to extract useful information directly from the web, such as Web documents and services, hyperlinks, Web content, and server logs.
+**Following are some types of data that can be mined:**
+**Flat Files:** Flat files are defined as data files in text form or in binary form with a structure that can be extracted by data mining algorithms.
+**Relational Database:** A relational database is a collection of data in an organized way.
+**DataWarehouse:** A data warehouse is a database system designed for analytics. Data warehousing is the process of extracting and storing data that allow easier reporting. Data mining is generally considered as the process of extracting useful data from a large set of data.
+**Transactional Databases:** Transactional database is a collection of data organized by date, timestamps, etc. to represent transactions in databases.
+**Multimedia Databases:** This is the type of database that is used to store multimedia data like videos, audio, images, etc.
+**Spatial Databases:** Spatial data is associated with geographic locations such as Countries, States, cities, towns, etc.
+**Time Series Databases:** A time series is a sequence of data points recorded at particular time points - most often in regular time intervals (like years, months, weeks, days, min, etc.).
+**World Wide Web(WWW):** Web mining can define as the method of utilizing data mining techniques and algorithms to extract useful information directly from the web, such as Web documents and services, hyperlinks, Web content, and server logs.
 
-Q7: What is data warehouse and what operations can we perform on data in data warehousing?
-ans:
-Data Warehouse:
+### Q7: What is data warehouse and what operations can we perform on data in data warehousing?
+### ANS:
+
+## Data Warehouse:
 Repository of information collected from multiple sources, stored under a unified schema, usually resides at a single point. Or we can say, The data warehouse is referred to as a place where meaningful and useful data can be stored. Data from different organizations or sources are added to the warehouse so it can be fetched and conformed for delete errors.
+**Following are some operations which are performed on data in data warehousing:**
+1. Data Cleaning
+2. Data Transforming
+3. Data integration
+4. data Loading
+5. Periodic Refreshing
 
-Following are some operations which are performed on data in data warehousing:
+### Q9: Which patterns are to be minded in predictive data?
+### ANS:
 
-Data Cleaning
-Data Transforming
-Data integration
-data Loading
-Periodic Refreshing
+## Patterns to be mined in Predictive data:
+**Followings are the patterns to be mined in predictive data:**
+1. Classification
+2. Predictions
+3. Time-series Analysis
+4. regression
+5. Outlier Analysis
 
-Q9: Which patterns are to be minded in predictive data?
-Patterns to be mined in Predictive data:
-Followings are the patterns to be mined in predictive data:
+### Q10: Which technologies are used in data mining?
+### ANS:
 
-Classification
-Predictions
-Time-series Analysis
-regression
-Outlier Analysis
+**Following are some technologies that are used in Data mining:**
+**Statistics:** In Statistics, we deal with the collection, organization, computing of data, and its representation.
+**Information retrieval:** It deals with the retrieval of information from different sources like documents etc.
+**Machine Learning:** In ML, we deal with the performance of a computer, how computers can be efficient on the basis of data.
+**Data warehousing:** It deals with the collection of data from different databases for analytics.
+**Database Systems:** As a data warehouse collects data from different databases so it means a lot in data mining.
+**High-performance computing:** These are responsible for storing a large amount of mined data accurately and fastly.
+**Algorithms:** Algo's deals with the working of different operations as algorithms have lots of importance in computer science.
+**Pattern recognition:** it is used to make patterns instead of searching each and every data from the database.
+**Visualization:** it deals with output data to show it in a user-friendly mode.
 
-Q10: Which technologies are used in data mining?
-Following are some technologies that are used in Data mining:
-
-Statistics: In Statistics, we deal with the collection, organization, computing of data, and its representation.
-Information retrieval: It deals with the retrieval of information from different sources like documents etc.
-Machine Learning: In ML, we deal with the performance of a computer, how computers can be efficient on the basis of data.
-Data warehousing: It deals with the collection of data from different databases for analytics.
-Database Systems: As a data warehouse collects data from different databases so it means a lot in data mining.
-High-performance computing: These are responsible for storing a large amount of mined data accurately and fastly.
-Algorithms: Algo's deals with the working of different operations as algorithms have lots of importance in computer science.
-Pattern recognition: it is used to make patterns instead of searching each and every data from the database.
-visualization: it deals with output data to show it in a user-friendly mode.
 Q11: State different applications of data mining?
 Applications of data mining:
-Ans: There are many fields where Data Mining comes into play But we discuss here two fields.
+There are many fields where Data Mining comes into play But we discuss here two fields.
 
 1. Business Intelligence: Business Intelligence is the technology that deals with the analytic and predicted operations of the business. Without data mining, effective marketing is not possible.
 
