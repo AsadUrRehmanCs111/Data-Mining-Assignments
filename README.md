@@ -308,11 +308,11 @@ other names: Dimension, Features, Variables
 ## Q18: Differentiate between discrete and continuous attribute?
 ### Differentiate between discrete and continuous attribute:
 
-## Discrete Attributes: 
+### Discrete Attributes: 
  The attributes that have only a finite or countably infinite set of values. In General, those samples are countable.
 For example, Binary value, no of words in a document, professions and no of pages in books, etc.
 
-## Continuous Attributes:
+### Continuous Attributes:
  The attributes that have real numbers as attribute values or samples that can take any value including decimal points i.e. temperature or height etc.
 
 ## Q19: What is data visualization? Discuss its advantages?
