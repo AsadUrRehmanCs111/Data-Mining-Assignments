@@ -1,8 +1,8 @@
 # Data Mining Assignments
 
-### Q1: What is data mining and what are different sources of data in modern world?
+## Q1: What is data mining and what are different sources of data in modern world?
 
-## Data Mining:
+### Data Mining:
 As mining in Data Mining suggests extracting something valuable.
 Data Mining is a process of discovering patterns in larger data sets. it is a process of finding anomalies, patterns, and correlations within large datasets to predict outcomes.
 In short, we can say, data mining is a process used to extract usable data from larger sets of raw data.
@@ -20,13 +20,13 @@ In short, we can say, data mining is a process used to extract usable data from 
 11. Weather Forecast
 12. Public datasets for Machine Learning etc. 
 
-### Q2: How data mining is different from DBMS?
+## Q2: How data mining is different from DBMS?
 
 Because in Data Mining we need implicit knowledge. But in DMBS we don't need any implicit knowledge get extract or get data. AS we Know, DBMS is an organized collection of data where we write a query for required data and get the information that we want which is called raw data. On the other hand, Data Mining analyzes data from different information to discover usable information and previously unknown information from raw data.
 
-### Q3: How can we extract knowledge from data?
+## Q3: How can we extract knowledge from data?
 
-## Steps to extract knowledge from raw data
+### Steps to extract knowledge from raw data
 **There are seven Steps to Extract Knowledge from raw data:**
 1. Defining the problem
 2. Building the database
@@ -36,9 +36,9 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 6. Assessment Model
 7. Interpretation of Model results and improvement
 
-### Q4: What are different types of data and which tasks can we perform on data?
+## Q4: What are different types of data and which tasks can we perform on data?
 
-## Different Types Of Data:
+### Different Types Of Data:
 1. Time Related or Sequence Data
 2. Data Streams
 3. Spatial Data
@@ -53,9 +53,9 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 12. Trend
 13. Deviation and outer Analysis
 
-### Q5: State applications of data mining in real world
+## Q5: State applications of data mining in real world
 
-## Applications of Data Mining in Real World:
+### Applications of Data Mining in Real World:
 **Data mining is used in almost every field of life. Here are some field where it used:**
 1. Retail
 2. Telecommunication
@@ -74,39 +74,37 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 15. Bioinformatics
 16. Service provider
 
-### Q6: What kind of data can be mined?
-### ANS:
+## Q6: What kind of data can be mined?
 
 **Following are some types of data that can be mined:**
 
-#### Flat Files:
+#### 1. Flat Files:
 Flat files are defined as data files in text form or in binary form with a structure that can be extracted by data mining algorithms.
 
-#### Relational Database:
+#### 2. Relational Database:
 A relational database is a collection of data in an organized way. 
 
-#### DataWarehouse: 
+#### 3. DataWarehouse: 
 A data warehouse is a database system designed for analytics. Data warehousing is the process of extracting and storing data that allow easier reporting. Data mining is generally considered as the process of extracting useful data from a large set of data.
 
-#### Transactional Databases:
+#### 4. Transactional Databases:
 Transactional database is a collection of data organized by date, timestamps, etc. to represent transactions in databases.
 
-#### Multimedia Databases:
+#### 5. Multimedia Databases:
 This is the type of database that is used to store multimedia data like videos, audio, images, etc.
 
-#### Spatial Databases:
+#### 6. Spatial Databases:
 Spatial data is associated with geographic locations such as Countries, States, cities, towns, etc.
 
-#### Time Series Databases: 
+#### 7. Time Series Databases: 
 A time series is a sequence of data points recorded at particular time points - most often in regular time intervals (like years, months, weeks, days, min, etc.).
 
-#### World Wide Web(WWW): 
+#### 8. World Wide Web(WWW): 
 Web mining can define as the method of utilizing data mining techniques and algorithms to extract useful information directly from the web, such as Web documents and services, hyperlinks, Web content, and server logs.
 
-### Q7: What is data warehouse and what operations can we perform on data in data warehousing?
-### ANS:
+## Q7: What is data warehouse and what operations can we perform on data in data warehousing?
 
-## Data Warehouse:
+### Data Warehouse:
 Repository of information collected from multiple sources, stored under a unified schema, usually resides at a single point. Or we can say, The data warehouse is referred to as a place where meaningful and useful data can be stored. Data from different organizations or sources are added to the warehouse so it can be fetched and conformed for delete errors.
 **Following are some operations which are performed on data in data warehousing:**
 1. Data Cleaning
@@ -115,9 +113,9 @@ Repository of information collected from multiple sources, stored under a unifie
 4. data Loading
 5. Periodic Refreshing
 
-### Q9: Which patterns are to be minded in predictive data?
+## Q9: Which patterns are to be minded in predictive data?
 
-## Patterns to be mined in Predictive data:
+### Patterns to be mined in Predictive data:
 **Followings are the patterns to be mined in predictive data:**
 1. Classification
 2. Predictions
@@ -125,34 +123,34 @@ Repository of information collected from multiple sources, stored under a unifie
 4. regression
 5. Outlier Analysis
 
-### Q10: Which technologies are used in data mining?
+## Q10: Which technologies are used in data mining?
 
 **Following are some technologies that are used in Data mining:** ..
-#### Statistics:
+#### 1. Statistics:
 In Statistics, we deal with the collection, organization, computing of data, and its representation.
 
-#### Information retrieval:
+#### 2. Information retrieval:
 It deals with the retrieval of information from different sources like documents etc.
 
-#### Machine Learning:
+#### 3. Machine Learning:
 In ML, we deal with the performance of a computer, how computers can be efficient on the basis of data. 
 
-#### Data warehousing:
+#### 4. Data warehousing:
 It deals with the collection of data from different databases for analytics.
 
-#### Database Systems:
+#### 5. Database Systems:
 As a data warehouse collects data from different databases so it means a lot in data mining. 
 
-#### High-performance computing:
+#### 6. High-performance computing:
 These are responsible for storing a large amount of mined data accurately and fastly.
 
-#### Algorithms: 
+#### 7. Algorithms: 
 Algo's deals with the working of different operations as algorithms have lots of importance in computer science.
 
-#### Pattern recognition: 
+#### 8. Pattern recognition: 
 it is used to make patterns instead of searching each and every data from the database.
 
-#### Visualization:
+#### 9. Visualization:
 it deals with output data to show it in a user-friendly mode.
 
 ## Q11: State different applications of data mining?
@@ -203,7 +201,7 @@ It may include the internet such as google search engines where we can search fo
 + Parallel,Distrubuted,stream and intreamental mining methods.
 + The application developed using data mining should be Efficient
 
-4.Data Diversity:
+### 4.Data Diversity:
 **it may include the following points:**
 
 + Dealings with complex types of data
@@ -224,16 +222,16 @@ Data sets are made up of data objects. A data object represents an entity. Data 
 
 **Following are some data objects considered while preparation of data:**
 
-#### Records: 
+#### 1. Records: 
 Collection of fields of different data types, in fixed number and sequence.
 
-#### Network and Graphs: Network: 
+#### 2. Network and Graphs: Network: 
 A set of nodes with edges example WWW or other web pages.
 
-#### Ordered data: 
+#### 3. Ordered data: 
 Categorical, Statistical data type where the variables have natural, ordered categories with specific distances between them. It's an ordered data with time series for example Video etc.
 
-#### Spatial data and images:
+#### 4. Spatial data and images:
 It's geographical data an example maps, images, videos, and their sequences, etc.
 
 ## Q14: Define structured data and its constituents?
@@ -244,15 +242,15 @@ Structured data is data that has clear, definable relationships between the data
 ### Constituents:  
 **Following are some constituents of Structured Data:**
 
-#### Dimensionality: 
+#### + Dimensionality: 
 It is the number of rows and columns.
-#### Sparsity: 
+#### + Sparsity: 
 It is no of cells that are empty means the cells having no data.
-#### Dimensions/Density:
+#### + Dimensions/Density:
 It is opposite to the sparsity of cells having data inside them.
-#### Resolutions: 
+#### + Resolutions: 
 It is the pattern that is responsible for making dimensional data resolved.
-#### Distribution: 
+#### + Distribution: 
 List of functions showing all the possible values of the data and how often they occur
 
 ## Q15: What can be the architecture or storage mechanism of data when it is prepared for data mining task?
@@ -278,13 +276,13 @@ other names: Dimension, Features, Variables
 2. Binary
 3. Numeric
 
-### Nominal:
+### + Nominal:
 Common Data Type, These types of attributes hold data value that is categorical i.e. Assitant,sub-Assistant, etc.
 
-### Binary: 
+### + Binary: 
 Special case of Nominal. These types of attributes have a data value only has two options i.e. Male and Female.
 
-### Numeric:
+### + Numeric:
 These type of attributes have a data value of numbers data type i.e ordinal scale or ratio scale.
 
 ## Q18: Differentiate between discrete and continuous attribute?
