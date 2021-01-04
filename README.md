@@ -1,4 +1,4 @@
-# Data Mining Assignments
+# Data Mining Assignment Questions
 
 ## Q1: What is data mining and what are different sources of data in modern world?
 
@@ -79,39 +79,56 @@ Because in Data Mining we need implicit knowledge. But in DMBS we don't need any
 **Following are some types of data that can be mined:**
 
 #### 1. Flat Files:
-Flat files are defined as data files in text form or in binary form with a structure that can be extracted by data mining algorithms.
+ Flat files are defined as data files in text form or in binary form with a structure that can be extracted by data mining algorithms.
 
 #### 2. Relational Database:
-A relational database is a collection of data in an organized way. 
+ A relational database is a collection of data in an organized way. 
 
 #### 3. DataWarehouse: 
-A data warehouse is a database system designed for analytics. Data warehousing is the process of extracting and storing data that allow easier reporting. Data mining is generally considered as the process of extracting useful data from a large set of data.
+ A data warehouse is a database system designed for analytics. Data warehousing is the process of extracting and storing data that allow easier reporting. Data mining is generally considered as the process of extracting useful data from a large set of data.
 
 #### 4. Transactional Databases:
-Transactional database is a collection of data organized by date, timestamps, etc. to represent transactions in databases.
+ Transactional database is a collection of data organized by date, timestamps, etc. to represent transactions in databases.
 
 #### 5. Multimedia Databases:
-This is the type of database that is used to store multimedia data like videos, audio, images, etc.
+ This is the type of database that is used to store multimedia data like videos, audio, images, etc.
 
 #### 6. Spatial Databases:
-Spatial data is associated with geographic locations such as Countries, States, cities, towns, etc.
+ Spatial data is associated with geographic locations such as Countries, States, cities, towns, etc.
 
 #### 7. Time Series Databases: 
-A time series is a sequence of data points recorded at particular time points - most often in regular time intervals (like years, months, weeks, days, min, etc.).
+ A time series is a sequence of data points recorded at particular time points - most often in regular time intervals (like years, months, weeks, days, min, etc.).
 
 #### 8. World Wide Web(WWW): 
-Web mining can define as the method of utilizing data mining techniques and algorithms to extract useful information directly from the web, such as Web documents and services, hyperlinks, Web content, and server logs.
+ Web mining can define as the method of utilizing data mining techniques and algorithms to extract useful information directly from the web, such as Web documents and services, hyperlinks, Web content, and server logs.
 
 ## Q7: What is data warehouse and what operations can we perform on data in data warehousing?
 
 ### Data Warehouse:
-Repository of information collected from multiple sources, stored under a unified schema, usually resides at a single point. Or we can say, The data warehouse is referred to as a place where meaningful and useful data can be stored. Data from different organizations or sources are added to the warehouse so it can be fetched and conformed for delete errors.
+ Repository of information collected from multiple sources, stored under a unified schema, usually resides at a single point. Or we can say, The data warehouse is referred to as a place where meaningful and useful data can be stored. Data from different organizations or sources are added to the warehouse so it can be fetched and conformed for delete errors.
+ 
 **Following are some operations which are performed on data in data warehousing:**
 1. Data Cleaning
 2. Data Transforming
 3. Data integration
 4. data Loading
 5. Periodic Refreshing
+
+## Q8: Explain different patterns of descriptive data?
+### Different Patterns of Descriptive data:
+**There are three major categories of Descriptive data:**
+1. Clustering
+2. Association
+3. Summarization
+
+### 1. Clustering: The process in which we group objects without knowing their class label. In this process, we are maximizing intra-class similarities of objects while minimizing inter-class similarities of objects. 
+
+### 2. Association: The process in which we are going to predict the associated object of the previous one As it is a prediction of the most associated objects of the current object.
+
+### 3. Summarization: Describes a given set of data in a concise and summative manner, presenting general interesting properties Following terms are most likely to associate this pattern of descriptive data 
+
+**Data Characterization**: To characterize data as useful or not useful
+**Data Discrimination:**    Differentiate data from the one which is not valuable.
 
 ## Q9: Which patterns are to be minded in predictive data?
 
@@ -127,31 +144,31 @@ Repository of information collected from multiple sources, stored under a unifie
 
 **Following are some technologies that are used in Data mining:** ..
 #### 1. Statistics:
-In Statistics, we deal with the collection, organization, computing of data, and its representation.
+ In Statistics, we deal with the collection, organization, computing of data, and its representation.
 
 #### 2. Information retrieval:
-It deals with the retrieval of information from different sources like documents etc.
+ It deals with the retrieval of information from different sources like documents etc.
 
 #### 3. Machine Learning:
-In ML, we deal with the performance of a computer, how computers can be efficient on the basis of data. 
+ In ML, we deal with the performance of a computer, how computers can be efficient on the basis of data. 
 
 #### 4. Data warehousing:
-It deals with the collection of data from different databases for analytics.
+ It deals with the collection of data from different databases for analytics.
 
 #### 5. Database Systems:
-As a data warehouse collects data from different databases so it means a lot in data mining. 
+ As a data warehouse collects data from different databases so it means a lot in data mining. 
 
 #### 6. High-performance computing:
-These are responsible for storing a large amount of mined data accurately and fastly.
+ These are responsible for storing a large amount of mined data accurately and fastly.
 
 #### 7. Algorithms: 
-Algo's deals with the working of different operations as algorithms have lots of importance in computer science.
+ Algo's deals with the working of different operations as algorithms have lots of importance in computer science.
 
 #### 8. Pattern recognition: 
-it is used to make patterns instead of searching each and every data from the database.
+ it is used to make patterns instead of searching each and every data from the database.
 
 #### 9. Visualization:
-it deals with output data to show it in a user-friendly mode.
+ it deals with output data to show it in a user-friendly mode.
 
 ## Q11: State different applications of data mining?
 
@@ -159,7 +176,7 @@ it deals with output data to show it in a user-friendly mode.
 **There are many fields where Data Mining comes into play But we discuss here two fields.**
 
 ### 1. Business Intelligence:
-Business Intelligence is the technology that deals with the analytic and predicted operations of the business. Without data mining, effective marketing is not possible. ..
+ Business Intelligence is the technology that deals with the analytic and predicted operations of the business. Without data mining, effective marketing is not possible. ..
 **Some common examples that come under this field Application of Data Mining:**
 + Stock Market
 + Basket product prediction
@@ -167,7 +184,7 @@ Business Intelligence is the technology that deals with the analytic and predict
 + Prediction and analysis of sales
 
 ### 2. Search Engines: 
-The place (servers) where we can search out our desired data or information.
+ The place (servers) where we can search out our desired data or information.
 It may include the internet such as google search engines where we can search for different types of things of our choice and we can get a suggestion out of which we searched this is all due to data mining.
 **Some common examples that come under this field are as follow:**
 + WWW
@@ -182,7 +199,7 @@ It may include the internet such as google search engines where we can search fo
 3. Efficiency
 4. ScaleAbility
 5. Diversity of database types
-6. data mining and society
+6. Data mining and society
 
 ### 1. Mining methodology:
 **it may include the following points:**
@@ -223,35 +240,35 @@ Data sets are made up of data objects. A data object represents an entity. Data 
 **Following are some data objects considered while preparation of data:**
 
 #### 1. Records: 
-Collection of fields of different data types, in fixed number and sequence.
+ Collection of fields of different data types, in fixed number and sequence.
 
 #### 2. Network and Graphs: Network: 
-A set of nodes with edges example WWW or other web pages.
+ A set of nodes with edges example WWW or other web pages.
 
 #### 3. Ordered data: 
-Categorical, Statistical data type where the variables have natural, ordered categories with specific distances between them. It's an ordered data with time series for example Video etc.
+ Categorical, Statistical data type where the variables have natural, ordered categories with specific distances between them. It's an ordered data with time series for example Video etc.
 
 #### 4. Spatial data and images:
-It's geographical data an example maps, images, videos, and their sequences, etc.
+ It's geographical data an example maps, images, videos, and their sequences, etc.
 
 ## Q14: Define structured data and its constituents?
 
 ### Structured data:
-Structured data is data that has clear, definable relationships between the data points, with a pre-defined model containing it. It is the data that is both highly organized and easy to digest making analytics possible through the use of legacy data mining.
+ Structured data is data that has clear, definable relationships between the data points, with a pre-defined model containing it. It is the data that is both highly organized and easy to digest making analytics possible through the use of legacy data mining.
 
 ### Constituents:  
 **Following are some constituents of Structured Data:**
 
 #### 1. Dimensionality: 
-It is the number of rows and columns.
+ It is the number of rows and columns.
 #### 2. Sparsity: 
-It is no of cells that are empty means the cells having no data.
+ It is no of cells that are empty means the cells having no data.
 #### 3. Dimensions/Density:
-It is opposite to the sparsity of cells having data inside them.
+ It is opposite to the sparsity of cells having data inside them.
 #### 4. Resolutions: 
-It is the pattern that is responsible for making dimensional data resolved.
+ It is the pattern that is responsible for making dimensional data resolved.
 #### 5. Distribution: 
-List of functions showing all the possible values of the data and how often they occur
+ List of functions showing all the possible values of the data and how often they occur
 
 ## Q15: What can be the architecture or storage mechanism of data when it is prepared for data mining task?
 
@@ -259,13 +276,13 @@ List of functions showing all the possible values of the data and how often they
 when it is prepared for the data mining tasks consists of the following components:
 
 ### 1. Data objects: 
-It is a storage region where a set of values or attributes are stored.it represents an entity. they are also known as with the following names like tuples, samples, data points, and instances, etc. Some examples of data objects are the Sales database, Medical Database, and University Database, etc.
+ It is a storage region where a set of values or attributes are stored.it represents an entity. they are also known as with the following names like tuples, samples, data points, and instances, etc. Some examples of data objects are the Sales database, Medical Database, and University Database, etc.
 ### 2. Data Matrix: 
-It stores data in the form of MxN dimensions.Where M represents rows while N represents columns. Rows of Data matrix represents Objects while a column of Data matrix represents Attributes.
+ It stores data in the form of MxN dimensions.Where M represents rows while N represents columns. Rows of Data matrix represents Objects while a column of Data matrix represents Attributes.
 
 ## Q16: What are attributes?
 ### Attributes: 
-A data field represent a characteristic or feature of the data object.
+ A data field represent a characteristic or feature of the data object.
 
 other names: Dimension, Features, Variables
 
@@ -277,28 +294,28 @@ other names: Dimension, Features, Variables
 3. Numeric
 
 ### 1. Nominal:
-Common Data Type, These types of attributes hold data value that is categorical i.e. Assitant,sub-Assistant, etc.
+ Common Data Type, These types of attributes hold data value that is categorical i.e. Assitant,sub-Assistant, etc.
 
 ### 2. Binary: 
-Special case of Nominal. These types of attributes have a data value only has two options i.e. Male and Female.
+ Special case of Nominal. These types of attributes have a data value only has two options i.e. Male and Female.
 
 ### 3. Numeric:
-These type of attributes have a data value of numbers data type i.e ordinal scale or ratio scale.
+ These type of attributes have a data value of numbers data type i.e ordinal scale or ratio scale.
 
 ## Q18: Differentiate between discrete and continuous attribute?
 ### Differentiate between discrete and continuous attribute:
 
 ## Discrete Attributes: 
-The attributes that have only a finite or countably infinite set of values. In General, those samples are countable.
+ The attributes that have only a finite or countably infinite set of values. In General, those samples are countable.
 For example, Binary value, no of words in a document, professions and no of pages in books, etc.
 
 ## Continuous Attributes:
-The attributes that have real numbers as attribute values or samples that can take any value including decimal points i.e. temperature or height etc.
+ The attributes that have real numbers as attribute values or samples that can take any value including decimal points i.e. temperature or height etc.
 
 ## Q19: What is data visualization? Discuss its advantages?
 
 ### Data Visualization:
-Transforms data into images for an effective and accurate presentation or for better understanding and Analysis.
+ Transforms data into images for an effective and accurate presentation or for better understanding and Analysis.
 
 ### Advantages of data visualization:
 1. Questions Answers
@@ -315,24 +332,19 @@ Transforms data into images for an effective and accurate presentation or for be
 **Following are the methods of data visualization**
 
 ### 1. Pixel Oriented:
-
-Represent many objects on the same screen at the same time. Map each data value to a pixel of the screen and arrange pixels adequately. The smallest unit of the image equals the size of the smallest cell in the matrix form. It helps to organize images well.
+ Represent many objects on the same screen at the same time. Map each data value to a pixel of the screen and arrange pixels adequately. The smallest unit of the image equals the size of the smallest cell in the matrix form. It helps to organize images well.
 
 ### 2. Geometric Visualization:
-
-Visualization of geometric transformations and projection of the data.
-
+ Visualization of geometric transformations and projection of the data.
+ 
 ### 3. Icon Visualization:
-
-It represents the data features in the form of icons.
+ It represents the data features in the form of icons.
 
 ### 4. Hierarchical Visualization:
-
-It is the representation of data in the form of hierarchy like in the tree form
+ It is the representation of data in the form of hierarchy like in the tree form
 
 ### 5. Complex data visualization:
-
-It is the representation of hyperlink data like data of social media data.
+ It is the representation of hyperlink data like data of social media data.
 
 ## Q21: What is pixel based data visualization approach?
 
@@ -346,13 +358,13 @@ The procedure of understanding, interpreting, and summarizing of data.
 **Following are some measuring characteristics of Statistical measures:**
 
 ### 1. Central Tendency: 
-Central value of data( mean value of data )
+ Central value of data( mean value of data )
 
 ### 2. Variation: 
-How data deviate from the mean point. Or How data values differ from each other.
+ How data deviate from the mean point. Or How data values differ from each other.
 
 ### 3. Spread: 
-How much data is spread from a to a point.
+ How much data is spread from a to a point.
 
 ## Q23: What is central tendency?
 
@@ -368,24 +380,24 @@ A single score that defines the middle/Center of the distribution. In Statistics
 
 ### Differentiate between symmetric and skewed data:
 ### Symmetric data:
-Symmetric data that has an equal no of data points on either side or equally distributed.
+ Symmetric data that has an equal no of data points on either side or equally distributed.
 ### Skewed or Asymmetric data:
-Asymmetric data is data that is differ from a normal or gaussian distribution.This may be positively skewed data or negatively skewed data.
+ Asymmetric data is data that is differ from a normal or gaussian distribution.This may be positively skewed data or negatively skewed data.
 
 1. Positively Skewed data:
-Having concentrated data on the right side of the middle data point.
+ Having concentrated data on the right side of the middle data point.
 2. Negatively Skewed Data: 
-Having concentrated data on the left side of the middle point of distribution.
+ Having concentrated data on the left side of the middle point of distribution.
 
 ## Q25: What is dispersion of data?
 
 ### Dispersion of data:
-The measure of the extent to which individual items vary. also called how much data is spread or scattered. It indicates the consistency of data. When the data set has a large value it has large scattered values and when the data set has a small set of values it has small scattering values. It is used to measure the variability of data used in data mining.
+ The measure of the extent to which individual items vary. also called how much data is spread or scattered. It indicates the consistency of data. When the data set has a large value it has large scattered values and when the data set has a small set of values it has small scattering values. It is used to measure the variability of data used in data mining.
 
 ## Q26: Define Box Plot Analytics?
 
 ### Box plot:
-Boxplots are the visual representation of quartiles. If we want to see the graphical forms of data quartiles it would be in the form of Boxplots. Boxplot is a standard way of displaying data based on a five-number summary. The end of the box is at the 1st and 3rd quartile and the median is within the box.
+ Boxplots are the visual representation of quartiles. If we want to see the graphical forms of data quartiles it would be in the form of Boxplots. Boxplot is a standard way of displaying data based on a five-number summary. The end of the box is at the 1st and 3rd quartile and the median is within the box.
 
 ## Q27: What are Five Number Summary of Box Plot?
 
@@ -402,16 +414,16 @@ A boxplot displays the five-number summary of a set of data.
 ## Q28: What are Whiskers and Out liners?
 
 ### Whiskers:
-Two lines outside the box extended to Min & Max.
+ Two lines outside the box extended to Min & Max.
 
 ### Outliers:
 
-Points beyond a specified outlier threshold plotted individually or Outliers may be plotted as individual points.
+ Points beyond a specified outlier threshold plotted individually or Outliers may be plotted as individual points.
 
 ## Q29: what are histograms?
 
 ### Histograms:
-The histogram is a measure of the graphical display of tabulated values/frequencies. No of the data items in intervals are Frequencies. And bar height describes the occurrence of the data items.
+ The histogram is a measure of the graphical display of tabulated values/frequencies. No of the data items in intervals are Frequencies. And bar height describes the occurrence of the data items.
 
 ## Q30: Difference between Bar Chart & Histogram?
 
