@@ -444,19 +444,19 @@ A boxplot displays the five-number summary of a set of data.
 ### Types of Histogram:
 **The following are the types of Histogram:**
 
-### Bell Shaped:
+### 1. Bell Shaped:
 The Normal Distribution. In this type, the points on one side of the middle are as likely to occur as on the other side of the middle. 
 
-### Doubled Peaked:
+### 2. Doubled Peaked:
 Suggests two Distributions Also Known as a bimodal distribution. It has two peaks. In this type, the data should be separated and analyzed as separate normal distributions. 
 
-### Skewed:
+### 3. Skewed:
 Look for Other Processes in the Tail. It may be left-skewed or right-skewed.
 
-### Truncated: 
+### 4. Truncated: 
 Looks For reasons for the sharp end of distribution or pattern.
 
-### Ragged Plateau: 
+### 5. Ragged Plateau: 
 No Single clear process or pattern. Also known as random distribution. It lacks an apparent pattern and has several peaks. It can be the case that different data properties were combined. Therefore, the data should be separated and analyzed separately.
 
 ## Q32: Define Quantile- Quantile Plots?
@@ -471,10 +471,8 @@ The quantile-quantile (Q-Q) plot is a graphical technique for evaluating if two 
 A scatter plot is a type of plot which is used to display values for typically two variables for a set of data.
 E.g Graph between height and weight.
 
-#### Correlation: 
-It means How two data values are related to each other. The variables may be Positively (directly) related or Negatively (inversely) related.
-#### Clusters of points:
-We check data where two points having clusters. 
++ **Correlation:** It means How two data values are related to each other. The variables may be Positively (directly) related or Negatively (inversely) related.
++ **Clusters of points:** We check data where two points having clusters. 
 
 ## Q34: what is geometric visualization?
 
@@ -493,9 +491,25 @@ Icon Based visualization uses small icons to represents multi-dimension data val
 + Stick Figures
 ### General Techniques:
 
-#### + Shape coding: 
+#### 1. Shape coding: 
 This technique, uses shapes to represent certain information encoding
-#### + Color icons:
+#### 2. Color icons:
 This technique, uses color icons to encode more information
-#### + Tile bars: 
+#### 3. Tile bars: 
 This technique, uses  small icons to represent the relevant feature vectors in document retrieval
+
+## Q36: what is Chernoff faces?
+
+### Chernoff faces:
+Represent variables in 2-dimension space. Chernoff faces, invented in 1973 by Herman Chernoff, show the form of a human face with multivariate details. The individual pieces, such as the eyes, ears, mouth, and nose, by their form, size, location, and orientation, represent the values of the variables. The concept behind using faces is that, without trouble, people quickly identify faces and note slight changes. The Chernoff faces treat each variable differently. Since the characteristics of the faces differ in perceived significance, it is important to carefully select the way in which variables are mapped to the characteristics.
+
+## Q37: what is Hierarchical Visualization?
+
+### Hierarchical Visualization:
+It is the representation of data in the form of hierarchy like in the tree form. If you are looking to view clusters of information, particularly if they flow from a single origin point, hierarchical visualizations are best suited. The downside to these diagrams is that they appear to be more complicated and hard to understand, which is why the tree diagram is most commonly used. It is the simplest to follow due to its linear path.
+
+### Examples of hierarchical data visualizations include:
+
+1. Tree diagrams
+2. Ring charts
+3. Sunburst diagrams
