@@ -439,3 +439,63 @@ A boxplot displays the five-number summary of a set of data.
 ### Histogram:
 1. Histograms are always continued and defined for every data point.
 2. Histograms are used for nominal data.
+
+## Q31: Types of Histogram?
+### Types of Histogram:
+**The following are the types of Histogram:**
+
+### Bell Shaped:
+The Normal Distribution. In this type, the points on one side of the middle are as likely to occur as on the other side of the middle. 
+
+### Doubled Peaked:
+Suggests two Distributions Also Known as a bimodal distribution. It has two peaks. In this type, the data should be separated and analyzed as separate normal distributions. 
+
+### Skewed:
+Look for Other Processes in the Tail. It may be left-skewed or right-skewed.
+
+### Truncated: 
+Looks For reasons for the sharp end of distribution or pattern.
+
+### Ragged Plateau: 
+No Single clear process or pattern. Also known as random distribution. It lacks an apparent pattern and has several peaks. It can be the case that different data properties were combined. Therefore, the data should be separated and analyzed separately.
+
+## Q32: Define Quantile- Quantile Plots?
+
+### Quantile- Quantile Plots:
+The quantile-quantile (Q-Q) plot is a graphical technique for evaluating if two sets of data come from widely disseminated populations. Or A quantile-quantile plot is a probability plot in statistics and is a graphical way to compare two probability distributions by plotting their quantities against each other. 
+
+## Q33: what is scatter Plot?
+
+### Scatter Plot
+
+A scatter plot is a type of plot which is used to display values for typically two variables for a set of data.
+E.g Graph between height and weight.
+
+#### Correlation: 
+It means How two data values are related to each other. The variables may be Positively (directly) related or Negatively (inversely) related.
+#### Clusters of points:
+We check data where two points having clusters. 
+
+## Q34: what is geometric visualization?
+
+### Geometric visualization:
+In Geometric visualization, we focus on the iransformation of data and projection of data. It means that how data is transformed from one domain to another domain and what is the projection of that data.
+
+
+## Q35: what is icon-based visualization?
+
+### Icon-based visualization:
+Icon Based visualization uses small icons to represents multi-dimension data values.
+
+### Typical visualization methods
+
++ Chernoff Faces
++ Stick Figures
+### General Techniques:
+
+#### + Shape coding: 
+This technique, uses shapes to represent certain information encoding
+#### + Color icons:
+This technique, uses color icons to encode more information
+#### + Tile bars: 
+This technique, uses  small icons to represent the relevant feature vectors in document retrieval
