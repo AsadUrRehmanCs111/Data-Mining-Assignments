@@ -523,3 +523,11 @@ In Dimensional Staking the word Stack or Stacking means to place one thing to an
 Dimensional Stacking is a technique for displaying multivariate data in two-dimensional screen space. This technique involves the discretization and recursive embedding of dimensions, each resulting N-dimensional bin occupying a unique position on the screen.
 
 + Important Attributes are kept on an outer level.
+
+## Q39: what is Tree Mapping in hierarchical visualization?
+
+### Tree Mapping:
+In Tree mapping, we generate data in the form of rectangles. Its simple idea is just like a tree in which we do screen Filling like we have a rectangular box and we keep placing small rectangles in it. The small rectangle means that we will see the root node then their child node and so on.
+
+### Proper Definition:
+Treemaps are visualizations for hierarchical data. They are made of a series of nested rectangles of sizes proportional to the corresponding data value. A large rectangle represents a branch of a data tree, and it is subdivided into smaller rectangles that represent the size of each node within that branch.
