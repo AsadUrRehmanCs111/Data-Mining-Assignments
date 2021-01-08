@@ -513,3 +513,13 @@ It is the representation of data in the form of hierarchy like in the tree form.
 1. Tree diagrams
 2. Ring charts
 3. Sunburst diagrams
+
+## Q38: what is Dimensional Stacking?
+
+### Dimensional Stacking:
+In Dimensional Staking the word Stack or Stacking means to place one thing to another thing. So we can easily say that Dimensional Stacking is about placing dimension to another dimension.
+
+### Proper Definition: 
+Dimensional Stacking is a technique for displaying multivariate data in two-dimensional screen space. This technique involves the discretization and recursive embedding of dimensions, each resulting N-dimensional bin occupying a unique position on the screen.
+
++ Important Attributes are kept on an outer level.
