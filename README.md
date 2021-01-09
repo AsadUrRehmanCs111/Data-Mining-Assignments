@@ -531,3 +531,11 @@ In Tree mapping, we generate data in the form of rectangles. Its simple idea is 
 
 ### Proper Definition:
 Treemaps are visualizations for hierarchical data. They are made of a series of nested rectangles of sizes proportional to the corresponding data value. A large rectangle represents a branch of a data tree, and it is subdivided into smaller rectangles that represent the size of each node within that branch.
+
+## Q40: what is N-vision and Auto-Visual?
+
+### N-vision:
+N-vision is company data collection data of computer vision or image processing. Dynamic interaction through data gloves and stereo Display.
+
+### Auto-Visual:
+Auto visual is a static interaction of users with data in the form of queries. 
