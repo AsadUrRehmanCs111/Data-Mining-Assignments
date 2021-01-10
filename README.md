@@ -535,7 +535,7 @@ Treemaps are visualizations for hierarchical data. They are made of a series of 
 ## Q40: what is N-vision and Auto-Visual?
 
 ### N-vision:
-N-vision is company data collection data of computer vision or image processing. Dynamic interaction through data gloves and stereo Display.
+N-vision is company of data collection that collects data for computer vision or image processing. Dynamic interaction through data gloves and stereo Display.
 
 ### Auto-Visual:
 Auto visual is a static interaction of users with data in the form of queries. 
