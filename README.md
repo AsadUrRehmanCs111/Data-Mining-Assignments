@@ -1,4 +1,4 @@
-# Data Mining Assignments Questions with Answers
+# Data Mining Assignment Questions!
 
 ## Q1: What is data mining and what are different sources of data in modern world?
 
